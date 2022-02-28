@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Selenium Framework
 - 💬 Ask me about ...Selenium Webdriver
 - 📫 How to reach me: ...@Digvijayautomation
-- 😄 Pronouns: ... Digvijay
+- 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ...
 -->
