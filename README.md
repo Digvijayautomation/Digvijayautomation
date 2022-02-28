@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 
-WebDriverIO TypeScript JavaScript Mocha Cucumber Selenium Java Rest-Assured Postman Apache Maven Git GitHub Jenkins Cypress NodeJS Bamboo JIRA Confluence
+https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white
