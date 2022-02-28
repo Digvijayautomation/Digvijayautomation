@@ -10,9 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Selenium Webdriver
 - 📫 How to reach me: @Digvijayautomation
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: 
-
-
+- ⚡ Fun fact: Agile Software Development Will Help You Find Your Soulmate :)
 
 
 
