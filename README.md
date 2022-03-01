@@ -41,4 +41,5 @@ Languages and Tools:
 
 <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Coder GIF" width="500" height="400" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%;">
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DigvijayTikka01" height="20" width="30" style="max-width: 100%;">
+
+<a href="https://twitter.com/DigvijayTikka01" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=" DigvijayTikka01" height="20" width="30" style="max-width: 100%;"></a>
