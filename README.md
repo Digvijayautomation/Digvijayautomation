@@ -1,7 +1,7 @@
 # Hello Bug Finders👋
 
 - 🔭 I’m currently working on Manual + Automation Testing Using Java With Selenium Webdriver.
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Cypress
 - 👯 I’m looking to collaborate on Cucumber BDD
 - 🤔 I’m looking for help with Selenium Framework
 - 💬 Ask me about Selenium Webdriver
